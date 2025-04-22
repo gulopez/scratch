@@ -1,6 +1,3 @@
-Update Feature branch 2B
-
-
 // Basic SQL Server connection string
 "Server=serverName;Database=dbName;User Id=username;Password=password;"
 
@@ -15,4 +12,3 @@ Update Feature branch 2B
 
 // Azure SQL Database connection string
 "Server=myserver.database.windows.net;Database=dbName;User Id=username@myserver;Password=password;"
-
