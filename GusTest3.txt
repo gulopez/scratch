@@ -1,1 +1,1 @@
-test 3 squash 3
+test 3 Rebase 3
