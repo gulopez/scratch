@@ -1,0 +1,5 @@
+Leaerning how to fork a repository, 
+clone it on my machine, 
+create a branch to link to the cloned repositor,
+add this file to the repository to do a commit
+using VS Code as the editor.
