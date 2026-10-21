@@ -4,5 +4,5 @@ Welcome to the Java Development Ecosystem Repository! Understanding A Distribute
 To push updated documentation file into your tracking branch:
 1. 'git status' (Verify your modified markdown file)
 2. 'git add a/b/c/REWprj1.md'
-2. 'git commit -m "Document Added' (Commit locally)
-3. 'git push origin main' (Send the commit to the origin reepository on GitHub)
+3. 'git commit -m "Document Added' (Commit locally)
+4. 'git push origin main' (Send the commit to the origin reepository on GitHub)
